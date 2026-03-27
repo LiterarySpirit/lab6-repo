@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static String message() {
-        return "Hello World!";
+        return "Hello from branch!";
     }
 
     public static void main(String[] args) {
